@@ -12,7 +12,7 @@ Then clone the project and do these
 
 ```
 dotnet restore
-dotnet 
+dotnet pack
 ```
 
 ## Related Projects
