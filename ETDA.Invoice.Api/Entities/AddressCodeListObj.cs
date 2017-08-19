@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ETDA.Invoice.Api.Entities
 {
-    class AddressCodeListObj
+    public class AddressCodeListObj
     {
         public string code { get; set; }
         public string changwat_th { get; set; }

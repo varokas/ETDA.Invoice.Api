@@ -1,6 +1,6 @@
 ﻿namespace ETDA.Invoice.Api.Entities
 {
-    class ItemList
+    public class ItemList
     {
         public int id { get; set; }
         public string name { get; set; }

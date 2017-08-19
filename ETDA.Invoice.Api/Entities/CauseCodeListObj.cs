@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ETDA.Invoice.Api.Entities
 {
-    class CauseCodeListObj
+    public class CauseCodeListObj
     {
         public string code { get; set; }
         public string description { get; set; }

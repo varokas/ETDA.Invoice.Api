@@ -1,6 +1,6 @@
 ﻿namespace ETDA.Invoice.Api.Entities
 {
-    class InvoiceObj
+    public class InvoiceObj
     {
         public string invoiceId { get; set; }
         public string invoiceName { get; set; }

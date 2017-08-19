@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ETDA.Invoice.Api.Entities
 {
-    class ConfigObj
+    public class ConfigObj
     {
         public int id { get; set; }
         public string key { get; set; }

@@ -7,7 +7,7 @@ using System.IO;
 
 namespace ETDA.Invoice.Api.Generator
 {
-    internal class InvoiceGenerator
+    public class InvoiceXmlGenerator
     {
         private string absolutepath = "";
         private DataTable buyer;
@@ -20,7 +20,7 @@ namespace ETDA.Invoice.Api.Generator
         private string typeCode;
         private InvoiceXmlObj XmlObj = new InvoiceXmlObj();
 
-        public InvoiceGenerator(DataTable buyer, DataTable seller, DataTable reference, DataTable item, string invoiceId, string path)
+        public InvoiceXmlGenerator(DataTable buyer, DataTable seller, DataTable reference, DataTable item, string invoiceId, string path)
         {
             Init(buyer, seller, reference, item, invoiceId, path);
         }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ETDA.Invoice.Api.Entities
 {
-    class InvoiceXmlObj
+    public class InvoiceXmlObj
     {
         public string invoiceId { get; set; }
         public string invoiceName { get; set; }

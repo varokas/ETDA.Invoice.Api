@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ETDA.Invoice.Api.Entities
 {
-    class RunningNumberObj
+    public class RunningNumberObj
     {
         public int id { get; set; }
         public string prefix { get; set; }

@@ -1,6 +1,6 @@
 ﻿namespace ETDA.Invoice.Api.Entities
 {
-    class ContactObj
+    public class ContactObj
     {
         public int id { get; set; }
         public string name { get; set; }
