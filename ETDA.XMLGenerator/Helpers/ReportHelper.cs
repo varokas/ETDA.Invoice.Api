@@ -4,7 +4,7 @@ using System.Data;
 using System.Globalization;
 using System.Linq;
 
-namespace ETDA.XMLGenerator.Helpers
+namespace ETDA.Invoice.Api.Helpers
 {
     public static class ReportHelper
     {

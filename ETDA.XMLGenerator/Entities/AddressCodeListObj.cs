@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ETDA.Invoice.Api.Entity
+namespace ETDA.Invoice.Api.Entities
 {
     class AddressCodeListObj
     {

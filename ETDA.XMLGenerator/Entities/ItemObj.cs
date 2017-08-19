@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel;
-namespace ETDA.Invoice.Api.Entity
+namespace ETDA.Invoice.Api.Entities
 {
     public class ItemObj
     {

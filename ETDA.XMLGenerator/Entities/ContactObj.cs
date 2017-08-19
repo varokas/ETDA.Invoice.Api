@@ -1,4 +1,4 @@
-﻿namespace ETDA.Invoice.Api.Entity
+﻿namespace ETDA.Invoice.Api.Entities
 {
     class ContactObj
     {
