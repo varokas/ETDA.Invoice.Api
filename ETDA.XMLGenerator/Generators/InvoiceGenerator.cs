@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.IO;
 
-namespace ETDA.Invoice.Generator
+namespace ETDA.Invoice.Api.Generator
 {
     internal class InvoiceGenerator
     {

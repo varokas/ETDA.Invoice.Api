@@ -1,6 +1,6 @@
 ﻿using iTextSharp.text.xml.xmp;
 
-namespace ETDA.Invoice.Generator
+namespace ETDA.Invoice.Api.Generator
 {
 #pragma warning disable CS0612 // Type or member is obsolete
     internal class ElectronicDocument : XmpSchema

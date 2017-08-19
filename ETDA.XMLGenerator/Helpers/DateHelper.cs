@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace ETDA.XMLGenerator.Helpers
+namespace ETDA.Invoice.Api.Helpers
 {
     public static class DateHelper
     {
